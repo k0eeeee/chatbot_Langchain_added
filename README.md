@@ -21,15 +21,15 @@
 ### 2.1. 주요 기능과 사용법
 
 1.  **성장 단계 선택**: 사용자는 앱 실행 후 가장 먼저 자신의 스타트업이 속한 성장 단계를 선택합니다.
-![성장 단계 선택](images\1.png)
+![성장 단계 선택](https://github.com/k0eeeee/chatbot_Langchain_added/blob/main/images/1.png?raw=true)
 2.  **당면 과제 선택**: 다음으로, 현재 가장 고민하고 있는 비즈니스 영역(당면 과제)을 선택합니다.
-![당면 과제 선택](images\2.png)
+![당면 과제 선택](https://github.com/k0eeeee/chatbot_Langchain_added/blob/main/images/2.png?raw=true)
 3.  **구체적인 고민 입력**: 채팅창에 현재 상황과 고민을 구체적으로 입력합니다.
-![구체적인 고민 입력](images\3.png)
+![구체적인 고민 입력](https://github.com/k0eeeee/chatbot_Langchain_added/blob/main/images/3.png?raw=true)
 4.  **AI 추천 확인**: AI는 입력된 정보를 종합하여 최적의 책과 관련 정보를 카드 형태로 제공합니다.
-![AI 추천 확인](images\4.png)
+![AI 추천 확인](https://github.com/k0eeeee/chatbot_Langchain_added/blob/main/images/4.png?raw=true)
 5.  **추가 질문 및 새로운 추천 요청**: 추천된 책에 대해 더 궁금한 점을 질문하거나, 완전히 새로운 주제의 책을 추천해달라고 요청할 수 있습니다.
-![추가 질문 및 새로운 추천 요청](images\5.png)
+![추가 질문 및 새로운 추천 요청](https://github.com/k0eeeee/chatbot_Langchain_added/blob/main/images/5.png?raw=true)
 
 ### 2.2. 코드 설명
 
